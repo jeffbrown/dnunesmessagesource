@@ -1,0 +1,7 @@
+model {
+    String customMessage
+}
+
+json {
+    message customMessage
+}
